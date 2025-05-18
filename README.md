@@ -47,7 +47,7 @@ XOR, XNOR: Non-linearly separable gates (cannot be solved with a single-layer pe
 
 
 
-✅ Results
+### ✅ Results
 Basic gates (AND, OR, NOT) are successfully simulated using a single-layer perceptron.
 
 Complex gates (XOR, XNOR) demonstrate the limitation of single-layer models, showcasing the need for multi-layer architectures in non-linearly separable problems.
