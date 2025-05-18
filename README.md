@@ -13,3 +13,9 @@ Simulate basic logic gates: AND, OR, NOT.
 
 Simulate complex logic gates: NAND, NOR, XOR, XNOR.
 
+### 🛠️ Technologies Used
+Python 3.x
+NumPy
+Matplotlib (optional for plotting results)
+
+
