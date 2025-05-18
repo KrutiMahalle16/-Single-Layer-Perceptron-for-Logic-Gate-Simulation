@@ -29,7 +29,7 @@ Edit
 f(x) = 1 if x >= threshold else 0
 Updates weights using the Perceptron Learning Rule.
 
-2. Basic Logic Gates
+### 2. Basic Logic Gates
 Trained with fixed inputs and outputs.
 
 Uses appropriate weights and thresholds:
