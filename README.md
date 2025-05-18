@@ -18,7 +18,7 @@ Python 3.x
 NumPy
 Matplotlib (optional for plotting results)
 
-###1. Perceptron Implementation
+### 1. Perceptron Implementation
 Accepts binary inputs.
 
 Uses a step activation function:
