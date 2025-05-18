@@ -77,5 +77,3 @@ Insight into linear separability and the limitations of shallow networks.
 
 
 
-
-r
