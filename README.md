@@ -44,3 +44,38 @@ NOT: Single input, inverse output
 NAND, NOR: Inverted versions of AND/OR
 
 XOR, XNOR: Non-linearly separable gates (cannot be solved with a single-layer perceptron alone, but implemented here with conditions or workarounds)
+
+
+
+✅ Results
+Basic gates (AND, OR, NOT) are successfully simulated using a single-layer perceptron.
+
+Complex gates (XOR, XNOR) demonstrate the limitation of single-layer models, showcasing the need for multi-layer architectures in non-linearly separable problems.
+
+📚 Learning Outcomes
+Understanding of how a perceptron learns through weight updates.
+
+Hands-on implementation of classic logic gates with machine learning.
+
+Insight into linear separability and the limitations of shallow networks.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+r
