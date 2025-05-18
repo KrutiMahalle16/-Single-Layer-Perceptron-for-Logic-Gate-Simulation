@@ -34,11 +34,11 @@ Trained with fixed inputs and outputs.
 
 ##### Uses appropriate weights and thresholds:
 
-####### AND: Output = 1 only if both inputs are 1
+#### AND: Output = 1 only if both inputs are 1
 
-####### OR: Output = 1 if at least one input is 1
+#### OR: Output = 1 if at least one input is 1
 
-####### NOT: Single input, inverse output
+#### NOT: Single input, inverse output
 
 ### 3. Complex Logic Gates
 NAND, NOR: Inverted versions of AND/OR
