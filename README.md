@@ -52,7 +52,7 @@ Basic gates (AND, OR, NOT) are successfully simulated using a single-layer perce
 
 Complex gates (XOR, XNOR) demonstrate the limitation of single-layer models, showcasing the need for multi-layer architectures in non-linearly separable problems.
 
-📚 Learning Outcomes
+### 📚 Learning Outcomes
 Understanding of how a perceptron learns through weight updates.
 
 Hands-on implementation of classic logic gates with machine learning.
